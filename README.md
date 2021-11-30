@@ -4,6 +4,8 @@
 
 工具复现ppt:工具复现.pptx
 
+视频在ppt最后一页
+
 The Implicit Semantic Data Augmentation (ISDA) algorithm implemented in Pytorch.
 
 - (NeurIPS 2019) [Implicit Semantic Data Augmentation for Deep Networks](https://arxiv.org/abs/1909.12220)

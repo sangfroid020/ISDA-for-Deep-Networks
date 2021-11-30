@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Image classification on ImageNet" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Visualizing deep features" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Image classification on CIFAR/networks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Image classification on ImageNet/networks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Image classification on CIFAR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes/libs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes/dataset" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes/loss" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Semantic segmentation on Cityscapes/networks" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
